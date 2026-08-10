@@ -1,0 +1,22 @@
+# Environment variables
+.env
+
+# Helper/scratch scripts
+rewrite_markdown.py
+fix_paths.py
+update_notebook_env.py
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

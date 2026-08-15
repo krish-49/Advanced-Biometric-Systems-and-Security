@@ -2,23 +2,23 @@
   "euclidean": {
     "n_genuine": 500,
     "n_impostor": 49500,
-    "genuine_mean": 590.0761516361595,
-    "genuine_std": 268.3061179292416,
-    "impostor_mean": 647.8571297193379,
-    "impostor_std": 285.4995553832316,
-    "EER": 0.4567979797979798,
-    "EER_threshold": 555.2253967414698,
-    "decidability_index": 0.20856829319994843
+    "genuine_mean": 291.6546714424137,
+    "genuine_std": 135.46265685353183,
+    "impostor_mean": 703.8263785114443,
+    "impostor_std": 301.792047103196,
+    "EER": 0.11609090909090909,
+    "EER_threshold": 432.30041569003333,
+    "decidability_index": 1.7620888805297226
   },
   "cosine": {
     "n_genuine": 500,
     "n_impostor": 49500,
-    "genuine_mean": 0.9672128967250985,
-    "genuine_std": 0.01839463620417726,
-    "impostor_mean": 0.968957789616745,
-    "impostor_std": 0.016558835815880298,
-    "EER": 0.528010101010101,
-    "EER_threshold": 0.9719956841859709,
-    "decidability_index": 0.09970347035897341
+    "genuine_mean": 0.9894984264252449,
+    "genuine_std": 0.010958362386826945,
+    "impostor_mean": 0.9603748398425986,
+    "impostor_std": 0.01836800533939145,
+    "EER": 0.082,
+    "EER_threshold": 0.9791932621510178,
+    "decidability_index": 1.9256567021146216
   }
 }
